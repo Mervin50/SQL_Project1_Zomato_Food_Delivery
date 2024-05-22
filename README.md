@@ -1,4 +1,4 @@
-# SQL_Project1_Zomato_Food_Delivery
+# SQL Project1 : Zomato Food Delivery
 
 1, Select a particular database?
 
