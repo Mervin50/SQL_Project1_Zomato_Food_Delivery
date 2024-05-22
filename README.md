@@ -42,10 +42,32 @@
 
 11. Find customers who have never ordered?
 
+![test1](https://github.com/Mervin50/SQL_Project1_Zomato_Food_Delivery/assets/167336864/d31183d0-2641-4ec9-8db6-b58b0d3f597a)
+
+12. Show order details of a particular customer in given data range?
+
+![test1](https://github.com/Mervin50/SQL_Project1_Zomato_Food_Delivery/assets/167336864/85108c4b-8f4c-4b01-b33a-2a260b1e9ee8)
+
+13. Which is customers Favourite food?
+
+![test1](https://github.com/Mervin50/SQL_Project1_Zomato_Food_Delivery/assets/167336864/ffece47f-2236-42e0-9042-a58ceb0cbdc2)
+
+14. Find the most costly restaurants (Average price/dish)?
+
+![test1](https://github.com/Mervin50/SQL_Project1_Zomato_Food_Delivery/assets/167336864/7a591c26-f2b5-4fdf-94f2-f97cfc6a94ea)
+
+15. Find the delivery partner compensation using the formula (#deliveries * 100 + 1000 * avg_rating)?
+
+![test1](https://github.com/Mervin50/SQL_Project1_Zomato_Food_Delivery/assets/167336864/fa9b6c3c-c57d-45e4-ab8f-36962fb8270c)
+
+16. Find the revenue per month for a restaurant?
+
+![test1](https://github.com/Mervin50/SQL_Project1_Zomato_Food_Delivery/assets/167336864/462c6b5e-04f4-48c6-b25f-91a1b650db38)
 
 
 
 
+ 
 
 
 
