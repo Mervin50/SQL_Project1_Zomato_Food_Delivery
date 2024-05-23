@@ -1,6 +1,6 @@
 # SQL Project1 : Zomato Food Delivery
 
-1, Select a particular database?
+1. Select a particular database?
 
 ![test1](https://github.com/Mervin50/SQL_Project1_Zomato_Food_Delivery/assets/167336864/c7fc5670-80c2-461e-be62-17244879fb10)
 
